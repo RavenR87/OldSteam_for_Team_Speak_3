@@ -63,6 +63,7 @@ Tip: use icon sizes that match your icon pack (Medium = 32px, Big = 40px).
 - Tested on TeamSpeak 3.6.2 (Windows)
 - Not affiliated with Valve Corporation or TeamSpeak Systems GmbH
 - All icons and sounds are original
+- Made with the help of AI
 
 ---
 
@@ -116,3 +117,4 @@ Tip: use icon sizes that match your icon pack (Medium = 32px, Big = 40px).
 - Проверено на TeamSpeak 3.6.2 (Windows)
 - Не связано с Valve Corporation и TeamSpeak Systems GmbH
 - Все значки и звуки созданы с нуля
+- Сделано с помощью искусственного интеллекта
